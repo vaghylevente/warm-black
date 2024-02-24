@@ -1,0 +1,21 @@
+{
+  "name": "warm-black",
+  "displayName": "Warm Black",
+  "description": "High contrast dark theme with warm colors. Mainly made it for C#/.NET development.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warm Black",
+        "uiTheme": "hc-black",
+        "path": "./themes/warm-black-color-theme.json"
+      }
+    ]
+  }
+}
