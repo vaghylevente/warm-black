@@ -2,6 +2,8 @@
 	"name": "Warm Black",
 	"type": "dark",
 	"colors": {
+		"contrastActiveBorder": "#00000000",
+		"contrastBorder": "#141414",
 		"activityBar.activeBorder": "#ebdbb2",
 		"activityBar.background": "#040404",
 		"activityBar.border": "#3c3836",
