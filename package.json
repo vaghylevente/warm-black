@@ -5,6 +5,7 @@
   "author": "vaghylevente (https://github.com/vaghylevente)",
   "publisher": "vaghylevente",
   "version": "0.0.3",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.86.0"
   },
