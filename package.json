@@ -4,7 +4,7 @@
   "description": "High contrast dark theme with warm colors. Mainly made it for C#/.NET development.",
   "author": "vaghylevente (https://github.com/vaghylevente)",
   "publisher": "vaghylevente",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.86.0"

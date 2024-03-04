@@ -2,7 +2,7 @@
 	"name": "Warm Black",
 	"type": "dark",
 	"colors": {
-		"contrastActiveBorder": "#00000000",
+		"contrastActiveBorder": "#424242",
 		"contrastBorder": "#141414",
 		"activityBar.activeBorder": "#ebdbb2",
 		"activityBar.background": "#040404",
@@ -1792,7 +1792,16 @@
 				"keyword",
 				"storage.type.class",
 				"keyword.operator.expression.new",
-				"keyword.operator.expression.await"
+				"keyword.operator.expression.await",
+				"keyword.operator.expression.nameof",
+				"keyword.operator.expression.typeof",
+				"keyword.operator.expression.with",
+				"keyword.operator.expression.sizeof",
+				"keyword.operator.expression.stackalloc",
+				"keyword.operator.expression.as",
+				"keyword.operator.expression.is",
+				"keyword.operator.expression.pattern.combinator.not",
+				"variable.language.this"
 			],
 			"settings": {
 				"foreground": "#FF33008E"
